@@ -25,6 +25,7 @@ public class AppTest
         return new TestSuite(AppTest.class);
     }
 
+    // test
     /**
      * Rigourous Test :-)
      */
