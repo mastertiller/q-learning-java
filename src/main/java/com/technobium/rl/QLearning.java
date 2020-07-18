@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class QLearning {
 
-    private final double alpha = 0.1; // Learning rate
+    private final double alpha = 0.1; // Learning rate123
     private final double gamma = 0.9; // Eagerness - 0 looks in the near future, 1 looks in the distant future
 
     private final int mazeWidth = 3;
