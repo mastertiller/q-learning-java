@@ -13,7 +13,7 @@ public class QLearning {
 
     private final int mazeWidth = 3;
     private final int mazeHeight = 3;
-    private final int statesCount = mazeHeight * mazeWidth;
+    private final int statesCount = mazeHeight * mazeWidth;321
 
     private final int reward = 100;
     private final int penalty = -10;
